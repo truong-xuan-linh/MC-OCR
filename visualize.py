@@ -37,7 +37,7 @@ def main():
     image = cv2.rectangle(image, (int(box[0]), int(box[1])), (int(box[4]), int(box[5])), colors[texttype], scl)
     ## Use simsum.ttc to write Chinese.
     
-    font = ImageFont.truetype(fontpath, 13*scl)
+    font = ImageFont.truetype(fontpath, 15*scl)
     img_pil = Image.fromarray(image)
     draw = ImageDraw.Draw(img_pil)
     draw.text((int(box[0]), max(int(box[1])-10,0)),  text, font = font, fill = colors[texttype])
