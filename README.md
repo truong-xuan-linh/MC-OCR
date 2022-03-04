@@ -70,5 +70,6 @@ Kết quả của các quá trình sẽ được lưu trong folder output
 
 Dưới đây là một số ảnh kết quả sau khi trích xuất thông tin hóa đơn
 ![Screenshot 2022-03-04 110039](https://user-images.githubusercontent.com/79902816/156696999-d42ca555-1d48-4bcb-97a3-7086e2f27b40.png)
+![Screenshot 2022-03-04 110454](https://user-images.githubusercontent.com/79902816/156697352-4ed7fdf7-5c88-4b11-8f26-5c948aeb77e3.png)
 
                 
